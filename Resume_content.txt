@@ -1,0 +1,58 @@
+Skills:
+Programming Languages: Core JavaL 
+Query Languages: SQL
+Web Technologies: HTML, CSS, JavaScript (Optional)
+Cloud Computing: AWS (EC2, S3, IAM, EBS, AMI, ASG, ELB, ALB, RDS, VPC, SNS and CloudWatch)
+Operating Systems: Windows and Linux
+Scripting Languages: Shell/Bash Scripting
+
+DevOps Tools:
+Git & GitHub
+Maven
+Jenkins
+Docker & DockerHub
+Ansible
+Terraform
+Kubernetes
+
+Web Servers: Apache Tomcat and Nginx
+
+Deployment Projects:
+--------------------------------------------------------------------------------
+Project 1: Web Application Deployment to Apache Tomcat
+Tech: AWS, Linux, Git & GitHub, Maven, Jenkins, Apache Tomcat
+Description: Automated deployment of a static web application to Apache Tomcat using Jenkins. Managed source code with Git and GitHub, and built the application with Maven in an AWS-hosted Linux environment.
+Outcome: Acquired hands-on experience in end-to-end web application deployment and automation.
+Source Code: GitHub Repository
+--------------------------------------------------------------------------------
+Project 2: Web Application Deployment to Apache Tomcat with Ansible
+Tech: AWS, Linux, Git & GitHub, Maven, Jenkins, Ansible, Apache Tomcat
+Description: Automated deployment of a web application to Apache Tomcat using Ansible for configuration management and deployment. Managed source code with Git and GitHub, built the application with Maven, and deployed it in an AWS-hosted Linux environment.
+Outcome: Acquired hands-on experience in using Ansible for automating deployments and managing configurations on Apache Tomcat.
+Source Code: GitHub Repository
+--------------------------------------------------------------------------------
+Project 3: Web Application Deployment to Apache Tomcat with Docker and DockerHub
+Tech: AWS, Linux, Git & GitHub, Maven, Jenkins, Docker, DockerHub, Apache Tomcat
+Description: Automated deployment of a web application to Apache Tomcat using Docker containers. Built Docker images, stored them in DockerHub, and managed deployments with Jenkins. Deployed the application in an AWS-hosted Linux environment.
+Outcome: Acquired hands-on experience in containerizing applications with Docker, managing container images with DockerHub, and deploying to Apache Tomcat, enhancing deployment efficiency and scalability.
+Source Code: GitHub Repository
+--------------------------------------------------------------------------------
+Project 4: CI/CD Pipeline for Web Application Deployment to Apache Tomcat with Docker and DockerHub
+Tech Stack: AWS, Linux, Git & GitHub, Maven, Jenkins, Docker, DockerHub, Apache Tomcat
+Description: Implemented a CI/CD pipeline using Jenkins to automate the deployment of a web application to Apache Tomcat. Built Docker images, stored them in DockerHub, and configured Jenkins for continuous integration and deployment. Deployed the application in an AWS-hosted Linux environment.
+Outcome: Gained hands-on experience in creating CI/CD pipelines with Jenkins, containerizing applications with Docker, managing container images with DockerHub, and deploying to Apache Tomcat, significantly improving deployment automation and efficiency.
+Source Code: GitHub Repository
+--------------------------------------------------------------------------------
+Project 5: Web Application Deployment to Kubernetes with Docker and DockerHub
+Tech Stack: AWS, Linux, Git & GitHub, Maven, Docker, DockerHub, Kubernetes
+Description: Automated the deployment of a web application to a Kubernetes cluster. Built Docker images, stored them in DockerHub, and managed deployments and scaling within Kubernetes. Deployed the application in an AWS-hosted Linux environment.
+Outcome: Acquired hands-on experience in deploying and managing applications in Kubernetes, containerizing with Docker, and using DockerHub for image storage, which enhanced deployment efficiency and scalability.
+Source Code: GitHub Repository
+--------------------------------------------------------------------------------
+Project 6: Web Application Deployment to Kubernetes with Docker and DockerHub
+Tech Stack: AWS, Linux, Git & GitHub, Maven, Jenkins, Docker, DockerHub, Kubernetes
+Description: Automated the deployment of a web application to a Kubernetes cluster using Jenkins. Built Docker images, stored them in DockerHub, and orchestrated deployments and scaling within Kubernetes. Managed the entire process from code integration to deployment in an AWS-hosted environment.
+Outcome: Acquired hands-on experience in deploying and managing applications in Kubernetes, containerizing with Docker, and using DockerHub for image storage, which improved deployment efficiency and scalability.
+Source Code: GitHub Repository
+
+
