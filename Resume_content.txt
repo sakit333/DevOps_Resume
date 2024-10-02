@@ -2,7 +2,7 @@ Skills:
 Programming Languages: Core JavaL 
 Query Languages: SQL
 Web Technologies: HTML, CSS, JavaScript (Optional)
-Cloud Computing: AWS (EC2, S3, IAM, EBS, AMI, ASG, ELB, ALB, RDS, VPC, SNS and CloudWatch)
+Cloud Computing: AWS (EC2, S3, IAM, EBS, AMI, ASG, ELB, ALB, VPC, CloudWatch, SNS, RDS and AWS Lambda)
 Operating Systems: Windows and Linux
 Scripting Languages: Shell/Bash Scripting
 
